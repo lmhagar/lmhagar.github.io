@@ -327,6 +327,12 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
+# -----------------------------------------------------------------------------
+# Optional Features
+# -----------------------------------------------------------------------------
+
+enable_google_verification: true  # enables google site verification
+
 
 # HTML Compression
 # - http://jch.penibelst.de/
