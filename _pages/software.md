@@ -6,7 +6,7 @@ author_profile: true
 
 I have developed the following Shiny apps to automate the methodology proposed with my collaborators in our papers.
 
-| * [https://luke-hagar.shinyapps.io/CPM_App/](https://luke-hagar.shinyapps.io/CPM_App/)
+* [https://luke-hagar.shinyapps.io/CPM_App/](https://luke-hagar.shinyapps.io/CPM_App/)
 |   This app allows practitioners to perform Bayesian estimation using comparative probability metrics (CPMs) without needing to manually implement the underlying computational details themselves.
 
 * [https://luke-hagar.shinyapps.io/SSD_App/](https://luke-hagar.shinyapps.io/SSD_App/)
