@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Luke Hagar | Home"
+title                    : "Luke Hagar"
 title_separator          : "-"
 name                     : &name "Luke Hagar"
 description              : &description "personal description"
