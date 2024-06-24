@@ -7,6 +7,6 @@ venue: 'Proceedings of the 30th ACM SIGKDD International Conference on Knowledge
 paperurl: 'https://kdd2024.kdd.org/'
 citation: Deng, Hagar, L., Stevens, N. T., Xifara, T., Gandhi, A. K. (2024+). Metric decomposition in A/B
 tests. Accepted to <i>Proceedings of the 30th ACM SIGKDD International Conference on Knowledge
-Discovery and Data Mining</i>.
+Discovery and Data Mining</i>: 1-11.
 ---
 
