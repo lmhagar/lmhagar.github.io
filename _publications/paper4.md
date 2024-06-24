@@ -1,7 +1,7 @@
 ---
 title: "Regional variation in articulation rate in French spoken in Canada"
 collection: publications
-permalink: /publication/paper3
+permalink: /publication/paper4
 date: 2024-05-20
 venue: 'Journal of the International Phonetics Association'
 paperurl: 'https://doi.org/10.1017/S0025100323000154'
