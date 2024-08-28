@@ -5,5 +5,5 @@ permalink: /publication/paper1
 date: 2022-05-01
 venue: 'Quality Engineering'
 paperurl: 'https://doi.org/10.1080/08982112.2022.2073452'
-citation: 'Lu, L., Anderson-Cook, C. M., Stevens, N. T., and Hagar, L. (2022). Using a baseline with the probability of agreement to compare distribution characteristics. <i>Quality Engineering 34</i>(3): 322-343.'
+citation: 'L. Lu, C.M. Anderson-Cook, N.T. Stevens, and L. Hagar. (2022). Using a baseline with the probability of agreement to compare distribution characteristics. <i>Quality Engineering 34</i>(3): 322-343.'
 ---
