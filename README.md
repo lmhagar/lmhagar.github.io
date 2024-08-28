@@ -1,1 +1,1 @@
-Personal Website for Luke Hagar, Incoming Postdoctoral Scholar at McGill University
+Personal Website for Luke Hagar, Postdoctoral Scholar at McGill University
