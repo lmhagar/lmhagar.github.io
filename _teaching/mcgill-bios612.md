@@ -7,4 +7,4 @@ venue: "McGill University, Department of Department of Epidemiology, Biostatisti
 date: 2024-08-28
 ---
 
-I am co-teaching this course with Shirin Golchi in the Fall 2024 term.
+I co-taught this course of 10 students with Shirin Golchi in the Fall 2024 term.
