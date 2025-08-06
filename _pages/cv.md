@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-A version of my CV from July 2025 is available [here](LukeHagarCV_Jul25.pdf).
+A version of my CV from August 2025 is available [here](LukeHagarCV_Aug25.pdf).
