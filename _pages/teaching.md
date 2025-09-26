@@ -9,6 +9,8 @@ author_profile: true
 
 A version of my teaching dossier is available [here](LukeHagarCV_Sep25.pdf).
 
+The courses I have taught are detailed below.
+
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}
