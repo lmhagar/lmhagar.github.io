@@ -1,5 +1,5 @@
 ---
-title: "It doesn't sound French, or does it"
+title: "It doesn't sound French, or does it?"
 collection: publications
 permalink: /publication/paper9
 date: 2025-09-04
