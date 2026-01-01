@@ -13,5 +13,5 @@ My research develops efficient, theory-driven methods to reduce the computationa
 
 I have taught undergraduate and graduate courses at McGill and Waterloo and worked with Waterloo’s Centre for Teaching Excellence to support graduate teaching development. As a Graduate Student Consultant, I honed skills supporting interdisciplinary research that I later applied in collaborations with linguistics researchers and Airbnb’s data science team.
 
-I am actively engaged in the statistical community. I currently co-lead the Statistical Society of Canada (SSC)’s Community Connections initiative and serve as Chair-Elect of the American Society for Quality’s Chemical Process and Industries Division. Previously, I chaired the SSC’s Student and Recent Graduate Committee and co-chaired the 2023 Canadian Statistics Student Conference.
+I am actively engaged in the statistical community. I currently co-lead the Statistical Society of Canada (SSC)’s Community Connections initiative and serve as Chair of the American Society for Quality’s Chemical Process and Industries Division. Previously, I chaired the SSC’s Student and Recent Graduate Committee and co-chaired the 2023 Canadian Statistics Student Conference.
 
