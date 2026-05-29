@@ -24,9 +24,9 @@ author:
   avatar           : "profile_nov25.jpg"
   name             : "Luke Hagar"
   pronouns         : # example: "she/her"  
-  bio              : "Research Officer"
+  bio              : "PhD in Statistics"
   location         : # "Waterloo, Canada"
-  employer         : "The University of Queensland"
+  employer         : # "The University of Queensland"
   uri              : # URL
   email            : "l.hagar@uq.edu.au" 
 
